@@ -1,0 +1,93 @@
+#heading{
+    background-color: rgb(192, 40, 40);
+    text-align: center;
+    height: 40px;
+    position:relative;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 10px;
+    z-index: 2;
+}
+.header{
+    background-color: rgb(192, 40, 40);
+}
+hr{
+    color: #fff;
+    width: 100%;
+}
+P{
+    z-index: 3;
+    border: 1px solid black;
+    width: 400px;
+    padding: 4px;
+    font-weight:lighter;
+   margin-left: 35%;
+   opacity: 0.9;
+}
+.center{
+    text-align: center;
+}
+#color-jobhi{
+    background-color: rgb(192, 40, 40);
+    text-align: center;
+}
+#color-pink{
+    background-color: rgb(192, 40, 40);
+    text-align: center;
+}
+.img{
+    margin-top: 5px;
+    margin-left: 33%;
+    margin-bottom: 5px;
+}
+#full-background{
+  background: linear-gradient(70deg, red, orange, yellow, orange, red);
+    z-index: 1;
+}
+.stars {
+    background-color: pink;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    animation-iteration-count: infinite;
+  }
+
+  .star-1 {
+    margin-left: 95%;
+    animation-name: twinkle-1;
+    animation-duration: 1s;
+  }
+
+  .star-2 {
+    margin-left: 25%;
+    animation-name: twinkle-2;
+    animation-duration: 1s;
+  }
+
+  @keyframes twinkle-1 {
+    20% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  @keyframes twinkle-2 {
+    20% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+  .color-red{
+    background-color: rgb(192, 40, 40);
+    text-align: center;
+  }
+ H3{
+    margin-top: 2px;
+ } 
+ #heigth{
+   width: 500px;
+   height: 300px;
+ }
+ footer{
+   background-color: rgb(39, 32, 32);
+ }
