@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Fanger53/News-Week/5f2bb371db587b51a34f6c1b86a7ff7c9cc2ab4a/index.html)
+[Live Demo Link](https://github.com/abdullah-FullStackDev/news/blob/main/index.html)
 
 ## Getting Started
 
