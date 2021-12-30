@@ -4,7 +4,7 @@
 
 > This project consists of building a news-page, to understand the use of css frameworks, in this project i used HTML5/CSS3 for making the front-end of this web-site and i wanted to know how HTML5/CSS3 works.
 
-![Alt text](https://github.com/Fanger53/News-Week/blob/master/assets/images/ss.PNG)
+![Alt text](https://github.com/abdullah-FullStackDev/news/blob/main/ss.png)
 
 ## Built With
 
