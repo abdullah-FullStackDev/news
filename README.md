@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/-news-page/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/news/)
 
 ## Getting Started
 
