@@ -91,7 +91,7 @@ P{
  footer{
    background-color: rgb(39, 32, 32);
  }
-#s-image{
+.s-image{
   border-radius: 50%;
   width: 50px;
   height: 50px;
